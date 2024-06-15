@@ -1,4 +1,4 @@
-# Installation of IIS Server
+# Automated IIS on Azure Virtual Machine
 
 ##  Project Overview 
 
