@@ -1,6 +1,9 @@
 # Installation of IIS Server
 
 ##  Project Overview 
+
+In today's digital landscape, a reliable and scalable web hosting environment is crucial. This project empowers you to quickly deploy an Internet Information Services (IIS) web server on a Microsoft Azure Virtual Machine (VM). By leveraging the automation capabilities of Azure PowerShell.
+This step-by-step approach ensures a streamlined and error-free setup, saving you valuable time and effort. Whether you're a beginner in cloud computing or a seasoned professional, this project offers a valuable resource for anyone seeking to leverage Azure's powerful infrastructure for web hosting.
 The Create Azure Virtual Machine and Install IIS Web Server project is designed to provide a step-by-step guide for setting up a web server on a virtual machine (VM) in Microsoft Azure. The project utilizes Azure CLI (Command-Line Interface) to create and configure the VM, install the Internet Information Services (IIS) web server, and verify the installation by accessing the IIS welcome page via the VM's public IP address or localhost.
 
 ### Project Goals
