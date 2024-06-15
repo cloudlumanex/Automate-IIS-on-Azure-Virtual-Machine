@@ -56,6 +56,8 @@ The Create Azure Virtual Machine and Install IIS Web Server project is designed 
   -PublicIpAddressName "testPublicIpAddress"
   -Openports 80,3389
   ```
+!["Alt Text"](C:\Users\Emmanuel\Pictures\Screenshots)
+  
 - Installed the IIS web server on the Azure VM using PowerShell
   ```PowerShell
   Install-WindowsFeature -name Web-Server -IncludeManagementTools
