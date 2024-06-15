@@ -58,6 +58,7 @@ The Create Azure Virtual Machine and Install IIS Web Server project is designed 
   Install-WindowsFeature -name Web-Server -IncludeManagementTools
   ```
 - I Verified the Installation Access on the IIS welcome page to confirm successful installation.
+- Capturing and documenting the setup process in a GitHub README file, including a screenshot of the IIS welcome page.
 
 
 ### Benefits
